@@ -1,6 +1,6 @@
 # Rodando o aplicativo
 
-Asegure que a URL do serviço esteja correta no arquivo './src/services/api.js'.
+Assegure que a URL do serviço esteja correta no arquivo './src/services/api.js'.
 
 
 Instale as dependências
